@@ -40,7 +40,7 @@ The Model uses Employment Scam Aegean Dataset (EMSCAD) , which can be viewed [he
 ### Visualizing common words used in the dataset using Wordcloud
 
 <p align="center">
-  <img width="460" height="300" src="Images/image4.PNG">
+  <img width="460" height="300" src="image4.PNG">
 </p>
 
 ## Model Evaluation 
@@ -58,6 +58,6 @@ In the Second approach, Decision tree classifier was used which classifies input
 Classification Accuracy: 0.8173076923076923 <br>
 Confusion Matrix:
 <p align="center">
-  <img width="460" height="300" src="Images/image6.PNG">
+  <img width="460" height="300" src="image6.PNG">
 </p>
 
