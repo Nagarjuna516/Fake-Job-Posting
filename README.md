@@ -7,7 +7,7 @@ Fake-Job-Predictor is a python based machine learning model, which uses algorith
 Code for all the detailed analysis and model building can be viewed [here](Fake_job_predictor.ipynb).
 
 <p align="center">
-  <img width="460" height="300" src="Images/image1.PNG">
+  <img width="460" height="300" src="image1.PNG">
 </p>
 
 ### Technology Stacks and Libraries
