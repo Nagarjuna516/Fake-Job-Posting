@@ -28,13 +28,13 @@ The Model uses Employment Scam Aegean Dataset (EMSCAD) , which can be viewed [he
 ### Visualizing dataset based on location 
 
 <p align="center">
-  <img width="460" height="300" src="Images/image2.PNG">
+  <img width="460" height="300" src="image2.PNG">
 </p>
 
 ### Visualizing dataset based on Experience
 
 <p align="center">
-  <img width="460" height="300" src="Images/image3.PNG">
+  <img width="460" height="300" src="image3.PNG">
 </p>
 
 ### Visualizing common words used in the dataset using Wordcloud
@@ -50,7 +50,7 @@ In the first approach, Multinomial Naive Bayes,which is one of the most popular 
 Classification Accuracy: 0.8980769230769231 <br>
 Confusion Matrix:
 <p align="center">
-  <img width="460" height="300" src="Images/image5.PNG">
+  <img width="460" height="300" src="image5.PNG">
 </p>
 
 ### Decision tree Classifier
